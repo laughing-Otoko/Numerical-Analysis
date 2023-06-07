@@ -13,3 +13,6 @@ choosing a positive integer N and selecting the mesh points
 Euler’s method is
     w0 = α,
     wi+1 = wi + hf (ti,wi), for each i = 0, 1, . . . , N − 1.    
+
+
+More codes: TO DO
